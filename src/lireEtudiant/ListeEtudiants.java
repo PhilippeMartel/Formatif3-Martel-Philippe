@@ -1,3 +1,12 @@
+/**
+ * Classe ListeEtudiant
+ * Cette classe gère une ArrayListe d'Etudiant.
+ *
+ * @see src.lireEtudiant.Etudiant
+ * @author Philippe Martel
+ * @version 1.1 : 2 février 2025
+ */
+
 package lireEtudiant;
 
 import java.io.*;
